@@ -18,7 +18,6 @@ async def create_embed(title=None, description=None, url=None, date=datetime.dat
     embed.set_author(name="Turnip Bot",
                      url="https://github.com/vlee489/Turnip-Bot/",
                      icon_url="https://cdn.vlee.me.uk/TurnipBot/icon.png")
-    embedded.set_footer(text="Turnip Bot", icon_url="https://cdn.vlee.me.uk/TurnipBot/icon.png")
     embed.timestamp = date
     return embed
 
