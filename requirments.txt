@@ -1,0 +1,16 @@
+discord.py
+numpy
+asyncio
+python-dotenv
+setuptools
+setuptools_scm
+sentry-sdk
+aiohttp
+pynamodb
+python-dateutil
+aiocontextvars
+pendulum==2.0.0
+pyjokes
+pillow
+matplotlib
+dblpy
